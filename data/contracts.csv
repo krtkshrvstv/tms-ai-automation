@@ -1,0 +1,5 @@
+Activity Code	Source Code	Destination Code	Vehicle Code	Order Type	Zone Type	Destination Zone	Plant	Amount	Bun	Vendor	Name1	Transporter	Vehicle Type
+SCHNTNCN14S	CHN	TNCNI	14S	SO	District	Chennai	3700	4150	AU	SFL0040	FLYJAC LOGI	TS	14FT
+SCHNTNCCC17S	CHN	TNCCC	17S	SO	Town	Chennai City Corporation	3700	4360	AU	SDE0595	DELHIVERY	TS	17FT
+SCHNTNCOC20S	CHN	TNCOC	20S	SO	SpecialZone	Chennai OUT OF CITY	3700	6000	AU	SGA0040	GATI	TS	20FT
+SCHNTNXNR20S	CHN	TNCNR	20S	SO	SpecialZone	Chennai Rural	3700	5450	AU	SSAF001	SAFEEXPRESS	TS	20FT

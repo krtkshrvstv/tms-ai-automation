@@ -1,0 +1,3 @@
+Type	Tariff ID	Service ID	Service Description	RestrictedUseFlag?	AutoAcceptTenderFlag?	ExcludeFromAutoTenderingFlag?	ExcludeFromOptimisationFlag?	Priority	TariffServiceCode	EquipmentTypeCode	EquipmentMinimumWeight	EquipmentMaximumWeight	EquipmentMinimumVolume	EquipmentMaximumVolume	MaximumStops
+H	CHN_WH_FLYJAC	FTLSO_UNCON01L	FTL SO Uncontract Service 01L	FALSE	FALSE	TRUE	FALSE	1	FTLSO_UNCON01L	01L		2500		8.41	3
+H	CHN_WH_DELHIVERY	FTLSO_UNCON19N	FTL SO Uncontract Service 19N	FALSE	FALSE	TRUE	FALSE	1	FTLSO_UNCON19N	19N		9000		34.43	3

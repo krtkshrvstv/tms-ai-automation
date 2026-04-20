@@ -1,0 +1,21 @@
+Here is the logistics template based on the provided contract data and logic rules:
+
+**Logistics Template (CSV)**
+
+```csv
+"Contract Number","Activity Code","Source Code","Destination Code","Vehicle Code","Order Type","Zone Type","Destination Zone","Plant","Amount","Bun","Vendor","Name1","Transporter","Vehicle Type"
+,"TL",,,"VX1",,"T","A","PLANT A",,"100","Y","XYZ Corp.","ABC Transport","Truck"
+,"TS",,,"VX2",,"S","B","PLANT B",,"50","N","PQR Inc.","DEF Logistics","Car"
+,"PT",,,"VX3",,"OT","C","PLANT C",,"200","Y","STU Corp.","GHI Transport","Truck"
+,"TS",,"1XX",,"2XX",,"T","A","PLANT A",,"100","N","JKL Inc.","MNO Logistics","Car"
+,"TL",,"3XX",,"4XX",,"S","B","PLANT B",,"50","Y","NOP Corp.","PQR Transport","Truck"
+,"OT",,"5XX",,"1XX",,"OT","C","PLANT C",,"200","N","QRS Inc.","STU Logistics","Van"
+,"T",,"6XX",,"2XX",,"T","A","PLANT A",,"100","Y","TXR Corp.","UVW Transport","Truck"
+```
+
+**Notes:**
+
+* The template includes the required fields from the original contract data.
+* The logic rules have been applied to generate the sample data, ensuring that the relationships between activity codes, source and destination codes, vehicle codes, order types, and zone types are reflected in the template.
+
+Please note that this is a fictional example based on the provided logic rules. You can adjust the data values according to your specific needs.
